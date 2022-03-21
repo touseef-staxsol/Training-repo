@@ -1,1 +1,4 @@
-hello
+hello;
+hgdh;
+sdbsjfbd;
+globalThis;
